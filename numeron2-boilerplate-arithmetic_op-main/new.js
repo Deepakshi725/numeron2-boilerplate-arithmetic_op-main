@@ -11,7 +11,7 @@ const modulobtn = document.getElementById('modulus');
 const score = document.getElementById('score-board')
 
 
-let timer = 20;
+let timer = 40; //We can change timer range of our own choice by updating it here
 let new_score = 0;
 
 function generateRandom() {
